@@ -2,6 +2,6 @@
 A simple AI Agent project being developed for practice.
 
 
-- Python
+- Python (Beautiful Soup, Selenium)
 - N8N
 - Browser Automation
